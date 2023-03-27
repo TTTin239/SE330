@@ -1,0 +1,12 @@
+Models\Factory.class
+Models\LCD_Television.class
+Models\TV.class
+Models\DVD.class
+Models\Car.class
+Models\Bike.class
+Models\Truck.class
+Models\Remote.class
+Models\DVD_Player.class
+Models\Vehicle.class
+App\FactoryApp.class
+Models\Bicycle.class

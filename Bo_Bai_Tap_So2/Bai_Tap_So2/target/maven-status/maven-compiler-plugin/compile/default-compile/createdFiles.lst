@@ -1,0 +1,8 @@
+Model\Book.class
+Model\Product.class
+Model\WareHouse.class
+Model\Sales.class
+Model\Staff.class
+App\Application.class
+Model\Manager.class
+Model\CD.class
